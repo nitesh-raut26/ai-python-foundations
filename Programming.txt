@@ -1,0 +1,45 @@
+From Python code to Machine code is using by the Translator(Compiler/Interpreter)
+here Interpreter is used in Python.
+
+Python is simple and easy. Free and open source
+High level Language
+Portable
+
+
+Python Character Set
+
+. Letters  - A to Z, a to z 
+. Digits  - 0 to 9
+. Special Symbols - + - * / etc.
+. Whitespaces - Blank Space, tab, carriage return, newline, formfeed
+. Other Character - Python can process all ASCII and Unicode characters as part of data or literals
+. 
+
+Rules for identifiers
+1. identifiers can be combinations of uppercase and lowercase letters, digits or underscore(_).
+   So myVariable,variable_1, variable_for_print all are valid python identifiers.
+
+2. An identifiers can not start with digit. So while variable1 is valid, 1variable is not valid.
+3. We can't use Special symbols like !,#,@,%,$ etc in our identifier.
+4. Identifier can be of any length.
+
+-------------------------
+Keywords -- keywords are reserved words in python
+
+and , as, assert, break, class, continue, def, del, elif, else,
+
+except, finally, False, for, from, global, if, import, in, as, lambda
+
+nonlocal, None, not, or, pass, raise, return, True, try, with,
+
+while, yield
+
+
+--------------------------
+
+
+
+
+
+
+
