@@ -54,4 +54,4 @@ This repo is designed to help learners who want to:
 
 🧩 How to Use
 	1.	Clone the repository
-  git clone https://github.com/<nitesh-raut26>/complete-python-for-ai-ml.git
+  git clone https://github.com/nitesh-raut26/complete-python-for-ai-ml.git
