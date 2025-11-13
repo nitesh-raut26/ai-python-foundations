@@ -37,6 +37,12 @@ while, yield
 
 --------------------------
 
+Task
+Correct Method
+Convert string → list based on separator
+.split()
+Convert list → string based on separator
+.join()
 
 
 
